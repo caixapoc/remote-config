@@ -1,0 +1,86 @@
+[
+    {
+        "section_id": "fraude",
+        "name": "Fraude",
+        "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+        "icon_color_tint": "#351245",
+        "content": "<!DOCTYPE html><html> <head><title>Navigation Delegate Example</title></head> <body> <p> The navigation delegate is set to block navigation to the youtube website. </p> <ul> <ul><a href=\"https: //www.youtube.com/\">https://www.youtube.com/ <ul><a href=\"https://www.google.com/\">https://www.google.com/ </ul> </body> </html>",
+        "vip": "true",
+        "childs": []
+    },
+    {
+        "section_id": "documentacion",
+        "name": "Documentación sospechosa",
+        "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+        "icon_color_tint": "#351245",
+        "content": "https://www.as.com",
+        "vip": "false",
+        "childs": []
+    },
+    {
+        "section_id": "oficina",
+        "name": "Incidencia en oficina",
+        "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+        "icon_color_tint": "#351245",
+        "content": "<!DOCTYPE html> <html> <head> <title>Title of the document</title> </head> <body> <a href=\"tel:666997788\">Link text</a> <video width=\"320\" height=\"240\" controls> <source src=”http://techslides.com/demos/sample-videos/small.ogv” type=video/ogg> <source src=\"https://www.w3schools.com/html/mov_bbb.mp4\" type=video/mp4> </video> <a href=\"mailto:name@email.com\">Link text</a> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p> </body> </html>",
+        "vip": "false",
+        "childs": []
+    },
+    {
+        "section_id": "suplantacion",
+        "name": "Suplantación de identidad",
+        "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+        "icon_color_tint": "#351245",
+        "content": "<!DOCTYPE html> <html> <head> <title>Title of the document</title> </head> <body> <a href=\"tel:666997788\">Link text</a> <video width=\"320\" height=\"240\" controls> <source src=”http://techslides.com/demos/sample-videos/small.ogv” type=video/ogg> <source src=\"https://www.w3schools.com/html/mov_bbb.mp4\" type=video/mp4> </video> <a href=\"mailto:name@email.com\">Link text</a> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p> </body> </html>",
+        "vip": "true",
+        "childs": []
+    },
+    {
+        "section_id": "ciber",
+        "name": "Ciberseguridad",
+        "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+        "icon_color_tint": "#351245",
+        "content": "",
+        "vip": "false",
+        "childs": [
+            {
+                "section_id": "ciber 1",
+                "vip": "false",
+                "name": "Ciberseguridad1",
+                "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+                "icon_color_tint": "#351245",
+                "content": "",
+                "childs": [
+                    {
+                        "section_id": "ciber 1 - 1",
+                        "vip": "false",
+                        "name": "Ciberseguridad11",
+                        "icon_url": "",
+                        "icon_color_tint": "",
+                        "content": "",
+                        "childs": [
+                            {
+                                "section_id": "ciber 1 - 1 - 1",
+                                "vip": "false",
+                                "name": "Ciberseguridad111",
+                                "icon_url": "",
+                                "icon_color_tint": "",
+                                "content": "http://www.google.es",
+                                "childs": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "section_id": "ciber 2",
+                "vip": "false",
+                "name": "Ciberseguridad2",
+                "icon_url": "https://materialdesignicons.com/api/download/6BD2BC65-C99A-42FB-A37E-85F5E8C91D32/FFFFFF/1/FFFFFF/0/48",
+                "icon_color_tint": "#351245",
+                "content": "<h1>Video Sample Page</h1> <p>This is the video we will work with. It uses a movie from the Blender Foundation (thanks :) )</p> <div id=\"container\"> <video id='video' controls=\"controls\" preload='none' width=\"600\" poster=\"https: //assets.codepen.io/32795/poster.png\"> <source id='mp4' src=\"https://media.w3.org/2010/05/sintel/trailer.mp4\" type='video/mp4' /> <source id='webm' src=\"https://media.w3.org/2010/05/sintel/trailer.webm\" type='video/webm' /> <source id='ogv' src=\"https://media.w3.org/2010/05/sintel/trailer.ogv\" type='video/ogg' /> <!-- Track to be used for accessibility using the VTT standard. See https://www.html5rocks.com/en/tutorials/track/basics/ for more information on how to use text tracks --> <track kind=\"subtitles\" label=\"English subtitles\" src=\"subtitles_en.vtt\" srclang=\"en\" default> </track> <!-- We can also add more than one text track and let the user choose which one to play. There is now way to currently do this with the built in controls so it'll have to be scripted --> <track kind=\"subtitles\" label=\"Deutsche Untertitel\" src=\"subtitles_de.vtt\" srclang=\"de\"> </track> <!-- We're not using Flash as a fallback option. It should be coverage enough to --> <p>Your user agent does not support the HTML5 Video element.</p> </video> </div> <!-- End Container -->",
+                "childs": []
+            }
+        ]
+    }
+]
